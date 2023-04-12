@@ -1,7 +1,10 @@
 #MY BUDGET
 VUE Application
 
-## Project setup npm install
+## Project setup
+```
+npm install
+```
 
 ### Compiles and hot-reloads for development
 ```
