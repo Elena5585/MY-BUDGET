@@ -2,9 +2,11 @@
   "name": "vue-exam",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/Elena5585/my-budget",
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
+    "build": "vue-cli-service build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "core-js": "^3.8.3",
