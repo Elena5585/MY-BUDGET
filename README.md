@@ -2,6 +2,7 @@
 Single Page Application (VUE)
 
 - HTML, CSS, Javascript, VUE
+- Without adaption for different device screens
 
 ## Project setup
 ```
