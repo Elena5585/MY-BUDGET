@@ -1,8 +1,7 @@
 # MY BUDGET
-VUE Application
+Single Page Application (VUE)
 
-- Приложение для контроля и учета личных средств
-- Использованы в работе HTML, CSS, JAVASCRIPT, VUE 
+- HTML, CSS, Javascript, VUE
 
 ## Project setup
 ```
